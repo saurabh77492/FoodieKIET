@@ -1,0 +1,115 @@
+body {
+	    	margin: 0px;
+	    	width: 100%;
+	    	height: auto;
+	    	background-repeat: no-repeat;
+	    	background-size: cover;
+	    	background-image: url("https://image.ibb.co/gWRRpn/orderback1.jpg");
+	    	overflow: scroll;
+	 }
+#text{
+			 font-family: 'Satisfy', cursive;
+			 color: #ffffff;
+			 text-align:left;
+			 padding:0px;
+			 font-size: 30px;
+			 line-height: 40px;
+             margin-left: 30px;
+			 margin-top: 70px;
+			 margin-bottom: 50px;
+
+	 }
+#foodie{       float: right;
+
+	   }
+
+.odd{
+			background-color: #ff5c33;
+			color: white;
+			padding: 20px;
+			font-size: 27.5px;
+			border:none;
+			margin-left: 10px;
+			font-family: 'Love Ya Like A Sister', cursive;
+		
+		
+	}
+.dropdown{
+            position: absolute;
+            display: inline-block;
+            margin-left: 10px;
+         }
+
+.dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 170px;
+            margin-left: 10px;
+
+    
+     }
+
+.dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            position: relative;
+            display: block;
+            font-family: 'Love Ya Like A Sister', cursive;
+           
+          }
+
+.dropdown-content a:hover {
+	        background-color: #ddd
+	      }
+
+.dropdown:hover .dropdown-content {
+            display: block;
+          }
+.btn:hover, .dropdown:hover .btn {
+            background-color: #0b7dda;
+	}
+#food{
+	        font-size: 120px;
+	        color: #ff5c33;
+          	font-family:'Love Ya Like A Sister', cursive;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+
+    }
+#wel{
+	        margin-top: 60px;
+	        font-size:70px;
+	        color:#ffffff;
+        	font-family: 'Oregano',cursive;
+	        text-align: left;
+        	margin-left: 30px;
+        	margin-bottom: 10px;
+        	
+   }
+#explore{
+            background-color: #ff5c33;
+			color: white;
+			font-size: 27.5px;
+			border:none;
+			padding:20px;
+			margin-left: 300px;	
+			font-family: 'Love Ya Like A Sister', cursive;
+   }
+#orderpopup{
+	   text-align: center;
+	   padding: 10px; 
+ }
+sfooter{
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: center;
+   height: 20px;
+}

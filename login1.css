@@ -1,0 +1,33 @@
+.btn {
+  font-size: 22px;
+  padding: 8px; 
+  font-family: Calibri;
+  cursor: pointer;
+  text-align:center;
+  background-color: #FF6347; 
+  border-radius: 25px; 
+  width: 100%;
+}
+.btn:hover {
+	background-color: #FF6347;
+}
+
+.popup {
+  margin: 30px auto;
+  padding: 15px;
+  border-radius: 10px;
+  border: 3px solid #FF6347;
+  width: 25em;
+  position: relative;
+  background: #fff;
+
+}
+
+	  #a2 {
+		  color: #FF6347;
+	  }
+	  
+	  #a3 {
+		  color: #FF6347;
+      font-size: 30px;
+	  }
